@@ -140,6 +140,6 @@ Some possible improvements for this dashboard are:
 
 ## Author
 
-**Mankaran Singh**
+**Mankarandeep Singh**
 
 This project was created as part of my learning journey in **Python, Pandas, and Data Science**.
